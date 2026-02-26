@@ -43,6 +43,12 @@ export const App = () => {
           <Link to="/frontend-rocks/dettaglio/1">
             Link alla pagina di dettaglio
           </Link>
+
+          
+
+
+
+
         </div>
       </div>
     </div>
