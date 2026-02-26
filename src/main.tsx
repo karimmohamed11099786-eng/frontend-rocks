@@ -3,7 +3,6 @@ import { createRoot } from "react-dom/client";
 import "./index.css";
 import { Detail } from "./Detail";
 import { BrowserRouter, Route, Routes } from "react-router";
-import { Root } from "./Root";
 import { Home } from "./Home";
 import { PokemonList } from "./PokemonList";
 
